@@ -2529,6 +2529,23 @@ input, select, textarea {
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
+			color: #BA5796;
+			font-weight: bold;
+		}
+
+		.react-icon {
+			font-size: 24px;
+			padding-top: 8px;
+		}
+
+		.sql-icon {
+			padding-top: 7.5px;
+		}
+		.devicon-postgresql-plain{
+			font-size: 24px;
+		}
+		.devicon-mongodb-plain{
+			font-size: 24px;
 		}
 
 			.icon.major:before {
