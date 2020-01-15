@@ -305,6 +305,16 @@ input, select, textarea {
 			overflow-x: auto;
 		}
 
+	.image-container{
+		display: flex;
+		justify-content: flex-start;
+		margin-bottom: 20px;
+	}
+	.image-container img{
+		border-radius: 100%;
+		/* opacity: 0.8; */
+	}
+
 	hr {
 		border: 0;
 		border-bottom: solid 1px rgba(255, 255, 255, 0.15);
